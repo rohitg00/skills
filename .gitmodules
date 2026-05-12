@@ -1,0 +1,6 @@
+[submodule "external/internet-skill"]
+	path = external/internet-skill
+	url = https://github.com/rohitg00/internet-skill.git
+[submodule "external/pro-workflow"]
+	path = external/pro-workflow
+	url = https://github.com/rohitg00/pro-workflow.git
