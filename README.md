@@ -6,8 +6,10 @@ Portable AI agent skills collection for important reusable workflows.
 
 | Skill | Location | Purpose |
 |---|---|---|
+| Anti-Slop Writing | `skills/anti-slop-writing` | Rewrite prose to remove formulaic AI tells, filler, fake profundity, and generic social-writing patterns. |
 | Image Generation | `skills/image-generation` | General source-grounded image generation and verification workflow. |
 | Product Hunt Launch Images | `skills/producthunt-launch-images` | 4-5 image launch carousel for developer tools and open-source projects. |
+| Social Post Writing | `skills/social-post-writing` | Conversation-first social posts for LinkedIn, X/Twitter, Threads, Bluesky, Instagram, Reddit, HN, and other channels. |
 | Technical Diagram Image | `skills/technical-diagram-image` | Dense technical architecture/reference diagram image for software projects. |
 | Internet Research | `external/internet-skill` | Deep web research workflow, tracked as a Git submodule. |
 | Pro Workflow | `external/pro-workflow` | Battle-tested workflow skills, commands, agents, and context patterns, tracked as a Git submodule. |
